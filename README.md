@@ -1,4 +1,4 @@
-# Some-words
+
 
 I should develop my language to understand more words about programming 
 
